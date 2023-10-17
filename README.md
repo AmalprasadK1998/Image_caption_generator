@@ -1,3 +1,3 @@
 # Image_caption_generator
 
-Generates captions for images using CNN and LSTM.
+Extracts images features using VGG 16 and generates captions using LSTM...used word2vec in the embedding layer.
